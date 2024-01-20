@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
+<p align="center">  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irstech4&show_icons=true&locale=en" alt="irstech4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irstech4&" alt="irstech4" /></p>
+</p>
