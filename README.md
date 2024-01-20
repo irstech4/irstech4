@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irstech4&label=Profile%20views&color=0e75b6&style=flat" alt="irstech4" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irstech4&show_icons=true&locale=en" alt="irstech4" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irstech4&" alt="irstech4" /></p>
