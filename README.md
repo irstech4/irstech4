@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 <p align="center">  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irstech4&show_icons=true&locale=en" alt="irstech4" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irstech4&" alt="irstech4" /></p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=irstech4&show_icons=true&locale=en" alt="irstech4" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=irstech4&" alt="irstech4" />
 </p>
