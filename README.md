@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irstech4&label=Profile%20views&color=0e75b6&style=flat" alt="irstech4" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 <p align="center">  
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irstech4&show_icons=true&locale=en" alt="irstech4" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=irstech4&" alt="irstech4" />
